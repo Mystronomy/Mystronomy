@@ -4,6 +4,8 @@ Now, I’m in my third year at the University of Illinois Chicago, majoring in C
 
 Looking ahead, I want to use my skills to create impactful software—whether that’s in web development, video games, or something I haven’t even discovered yet. I’m always eager to learn, collaborate, and take on new challenges. If you’re working on something exciting, I’d love to connect!
 
-Technical Skills:
+### Technical Skills:
+
 Languages: Python, Java, C, C++, HTML, SQL
+
 Other: Algorithms, Data Structures, System Programming, Object-Oriented Design
